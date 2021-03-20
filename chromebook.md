@@ -1,3 +1,4 @@
+---
 author: Icelandan
 title: chromebook
 image_url: /images/chromebook.jpg
