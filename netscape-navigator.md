@@ -6,7 +6,7 @@ caption: Το Netscape Navigator ήταν ένα από τα πρώτα προγ
 license_url: 'https://www.freepik.com'
 license_text: Courtesy of freepik.com
 categories:
-  - archetypes
+  - Αρχέτυπα
   - GUI
 tags:
   - Netscape Navigator
